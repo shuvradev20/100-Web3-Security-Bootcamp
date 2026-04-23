@@ -22,7 +22,7 @@ To run this project in your local environment, follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone <your-github-repo-link>
+git clone https://github.com/shuvradev20/100-Web3-Security-Bootcamp.git
 
 # 2. Install dependencies
 npm install
